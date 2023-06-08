@@ -69,4 +69,4 @@ El repositorio engloba un proyecto maven conectado a la base de datos desarrolla
 
 ---
 ## Diseñador phpMyAdmin
-<a href="url"><img src="https://github.com/CrisCorreaS/api-almacen-jdbc2-database-connection/blob/main/bd/diseñador-phpMyAdmin.png" align="left" height="400"></a>
+<a href="url"><img src="https://github.com/CrisCorreaS/api-almacen-dbcp2-database-connection/blob/main/bd/dise%C3%B1ador-phpMyAdmin.png" align="left" height="400"></a>

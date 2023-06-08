@@ -1,0 +1,1 @@
+package org.feliz.almacen.api.configuration;

@@ -2,6 +2,10 @@
 
 El repositorio engloba un proyecto maven conectado a la base de datos desarrollada en phpMyAdmin, de un almacén, gracias a un MariaDB JDBC Driver. Este proyecto me ayuda a aprender, practicar y afianzar las bases de desarrollo de bases de datos, al igual que conceptos más avanzados como pools de conexiones y métodos CRUD.
 
+Existen dos directorios importantes en este repositorio:
+- **bd**: Es donde se encuentra toda la información de la creación de la base de datos, el modelo entidad-relación, el modelo relacional y el diseñador
+- **AppAlmacen2**: Es donde se encuentra el código de nuestra api
+
 ---
 ## BASE DE DATOS
 

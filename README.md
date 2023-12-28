@@ -1,5 +1,8 @@
 # api-almacen-dbcp2-database-connection
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
+![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-violet)
+<img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/>
+<img alt="java" src="https://img.shields.io/badge/-Java-EC2023?style=flat-square&logo=openjdk&logoColor=white" />
+<img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
 <br/>
 El repositorio engloba un proyecto maven conectado a la base de datos desarrollada en phpMyAdmin, de un almacén, gracias a un MariaDB JDBC Driver. Este proyecto me ayuda a aprender, practicar y afianzar las bases de desarrollo de bases de datos, al igual que conceptos más avanzados como pools de conexiones y métodos CRUD.
 
